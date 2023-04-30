@@ -2,7 +2,7 @@
 
 wget http://ftp.gnu.org/gnu/parallel/parallel-latest.tar.bz2
 sudo tar xjf parallel-latest.tar.bz2
-cd parallel-*
+cd parallel-2023*
 sudo ./configure && make
 sudo make install
 cd
